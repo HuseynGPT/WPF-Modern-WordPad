@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Modern_Text_Editor</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Align Center_64px.png" />
+    <None Remove="Resources\Align Left_64px.png" />
+    <None Remove="Resources\Align Right_64px.png" />
+    <None Remove="Resources\copy_26px.png" />
+    <None Remove="Resources\cut_26px.png" />
+    <None Remove="Resources\icons8_microsoft_word_2019.ico" />
+    <None Remove="Resources\paste_26px.png" />
+    <None Remove="Resources\save_26px.png" />
+    <None Remove="Resources\upload_50px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="{215d64d2-031c-33c7-96e3-61794cd1ee61}">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>4</VersionMinor>
+      <VersionMajor>2</VersionMajor>
+      <Guid>215d64d2-031c-33c7-96e3-61794cd1ee61</Guid>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Align Center_64px.png" />
+    <Resource Include="Resources\Align Left_64px.png" />
+    <Resource Include="Resources\Align Right_64px.png" />
+    <Resource Include="Resources\copy_26px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\cut_26px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\icons8_microsoft_word_2019.ico" />
+    <Resource Include="Resources\paste_26px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\save_26px.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\upload_50px.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

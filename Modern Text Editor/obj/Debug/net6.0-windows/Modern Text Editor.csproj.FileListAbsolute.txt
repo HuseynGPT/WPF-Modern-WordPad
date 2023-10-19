@@ -1,0 +1,64 @@
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.exe
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.deps.json
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.runtimeconfig.json
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.g.resources
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\refint\Modern Text Editor.dll
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\ref\Modern Text Editor.dll
+C:\Users\Administrator\source\repos\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.ResolveComReference.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.exe
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.deps.json
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.runtimeconfig.json
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.AssemblyReference.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.ResolveComReference.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.lref
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.g.resources
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfoInputs.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfo.cs
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\refint\Modern Text Editor.dll
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.genruntimeconfig.cache
+C:\Users\Husey_lo34\Downloads\Modern Text Editor-20231019T043550Z-001\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\ref\Modern Text Editor.dll
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.exe
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.deps.json
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.runtimeconfig.json
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\bin\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.cache
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor_MarkupCompile.lref
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.g.resources
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.dll
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\refint\Modern Text Editor.dll
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.pdb
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\Modern Text Editor.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Compressed\Modern Text Editor\Modern Text Editor\Modern Text Editor\obj\Debug\net6.0-windows\ref\Modern Text Editor.dll

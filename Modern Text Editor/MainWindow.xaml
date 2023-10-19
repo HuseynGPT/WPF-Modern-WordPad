@@ -1,0 +1,140 @@
+﻿<Window x:Class="Modern_Text_Editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Modern_Text_Editor"
+        mc:Ignorable="d"
+        Title="Modern WordPad" Height="550" Width="1000" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Icon="\Resources\icons8_microsoft_word_2019.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="300*"/>
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Row="0">
+
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Offset="0" Color="LightSkyBlue" />
+                    <GradientStop Offset="1" Color="DarkBlue" />
+                </LinearGradientBrush>
+            </Grid.Background>
+            <StackPanel>
+                <Menu  Foreground="Gray">
+                    <MenuItem Header="File">
+                        <MenuItem Header="Save As" Click="SaveBtn_Click"/>
+                    </MenuItem>
+                    <MenuItem Header="Home"/>
+                    <MenuItem Header="Insert"/>
+                    <MenuItem Header="Format"/>
+                    <MenuItem Header="View"/>
+                    <MenuItem Header="Help"/>
+                    <Menu.Background>
+
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Offset="0" Color="LightSkyBlue" />
+                            <GradientStop Offset="1" Color="DarkBlue" />
+                        </LinearGradientBrush>
+
+
+                    </Menu.Background>
+                </Menu>
+
+            </StackPanel>
+
+
+        </Grid>
+
+
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Offset="0" Color="LightSkyBlue" />
+                    <GradientStop Offset="1" Color="DarkBlue" />
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <!--Bold Italic Underlined Strike Buttons-->
+            <WrapPanel>
+
+                <Button Margin="10" Name="DefalultFontBtn" Foreground="#edeff2" FontSize="20" Content="R" BorderThickness="0"  Background="Transparent" Click="DefalultFontBtn_Click" />
+                <Button Margin="10" Name="BoldBtn" Foreground="#edeff2" Content="B" BorderThickness="0" FontWeight="Bold" FontSize="20" Background="Transparent" Click="BoldBtn_Click" />
+                <Button Margin="10" Name="ItalicBtn" Foreground="#edeff2"  Content="I" BorderThickness="0" FontStyle="Italic" FontSize="20" Background="Transparent" Click="ItalicBtn_Click" />
+                <Button Margin="10" Height="30" Foreground="#edeff2"  Background="Transparent" Name="UnderlinedBtn" BorderThickness="0" Click="UnderlinedBtn_Click">
+                    <TextBlock Text="U" TextDecorations="Underline" FontSize="20"/>
+                </Button>
+                <Button Name="StrikeBtn"  Foreground="#edeff2" FontSize="20" Margin="10" Background="Transparent" BorderThickness="0" Click="StrikeBtn_Click">
+                    <TextBlock Text="S" TextDecorations="Strikethrough"/>
+                </Button>
+
+                <ComboBox SelectedItem="Segou Ui" Name="FontComboBox" Width="100" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Margin="10" SelectionChanged="FontComboBox_SelectionChanged"/>
+                <ComboBox Name="FontSizeCombobox" Width="35" Height="20" Background="Transparent" BorderThickness="0" BorderBrush="Transparent" SelectionChanged="FontSizeCombobox_SelectionChanged">
+                    <ComboBoxItem Content="8"/>
+                    <ComboBoxItem Content="9"/>
+                    <ComboBoxItem Content="10"/>
+                    <ComboBoxItem Content="11"/>
+                    <ComboBoxItem Content="12"/>
+                    <ComboBoxItem Content="14"/>
+                    <ComboBoxItem Content="16"/>
+                    <ComboBoxItem Content="18"/>
+                    <ComboBoxItem Content="20"/>
+                    <ComboBoxItem Content="24"/>
+                    <ComboBoxItem Content="28"/>
+                    <ComboBoxItem Content="36"/>
+                    <ComboBoxItem Content="48"/>
+                    <ComboBoxItem Content="72"/>
+                </ComboBox>
+
+
+                <ComboBox Name="ColorPickerCombobox" Width="60" Height="20" Margin="10" SelectionChanged="ColorPickerCombobox_SelectionChanged">
+                    <ComboBoxItem Content="Red" Background="Red" />
+                    <ComboBoxItem Content="Blue" Background="Blue" />
+                    <ComboBoxItem Content="Greenl" Background="Green" />
+                    <ComboBoxItem Content="Yellow" Background="Yellow" />
+                    <ComboBoxItem Content="Orange" Background="Orange" />
+
+                </ComboBox>
+                <Button Margin="10" Name="LeftAlligmentBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="LeftAlligmentBtn_Click">
+                    <Image Source="\Resources\Align Left_64px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="CenterAlligmentBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="CenterAlligmentBtn_Click">
+                    <Image Source="\Resources\Align Center_64px.png" Width="20" />
+                </Button>
+
+                <Button Margin="10" Name="RightAlligmentBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="RightAlligmentBtn_Click">
+                    <Image Source="\Resources\Align Right_64px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="SaveBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="SaveBtn_Click">
+                    <Image Source="\Resources\save_26px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="UploadBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="UploadBtn_Click">
+                    <Image Source="\Resources\upload_50px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="CutBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="CutBtn_Click">
+                    <Image Source="\Resources\cut_26px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="CopyBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="CopyBtn_Click">
+                    <Image Source="\Resources\copy_26px.png" Width="20" />
+                </Button>
+                <Button Margin="10" Name="PasteBtn" Width="20" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="PasteBtn_Click">
+                    <Image Source="\Resources\paste_26px.png" Width="20"/>
+                </Button>
+                <Button Name ="SelectAllBtn" Content="Select all" Width="100" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Click="SelectAllBtn_Click" Foreground="White"/>
+                <CheckBox Name="AutoSaveCheckBox" Content="Auto Save" Margin="10 30" Foreground="#edeff2" BorderThickness="0" BorderBrush="Transparent"/>
+                <Button Name="AboutBtn" Content="About" Margin="0 0 10 23" Width="50" Height="20" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Foreground="White" Click="AboutBtn_Click"/>
+            </WrapPanel>
+
+        </Grid>
+
+        <Grid Grid.Row="2">
+
+            <RichTextBox Name="RichTxtBoxxx" TextChanged="RichTxtBoxxx_TextChanged"/>
+
+
+        </Grid>
+
+    </Grid>
+</Window>
